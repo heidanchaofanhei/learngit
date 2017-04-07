@@ -10,3 +10,4 @@ dev222
 —no-f
 test2
 test —no-ff
+test fast
